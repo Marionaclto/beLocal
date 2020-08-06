@@ -1,0 +1,37 @@
+.container {
+  margin: 100px;
+  text-align: center;
+}
+
+.card-image {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
+
+.old-price {
+  text-decoration: line-through;
+  font-size: 17px;
+}
+
+.price {
+  font-size: 20px;
+}
+
+.button-green {
+  background-color: #7bb062 !important;
+  color: black !important;
+  border: #7bb062 !important;
+  padding: 10px !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 20px !important;
+}
+
+.card-text {
+  text-align: center !important;
+}
+
+.card-deck {
+  margin-bottom: 30px;
+}

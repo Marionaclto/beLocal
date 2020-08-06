@@ -1,0 +1,69 @@
+.body {
+  font-family: 'PT Sans';
+  text-align: center;
+}
+
+.dashboard {
+  background-color: #7bb062;
+  text-align: center;
+  width: 100vw;
+  height: 300vh;
+  margin-bottom: 20px;
+}
+
+.super-cute-card {
+  margin-bottom: 20px;
+}
+
+.card-dash {
+  display: flex;
+  width: 800px !important;
+  text-align: center;
+  padding: 0px;
+  margin: 20px;
+}
+
+.dates {
+  text-align: center !important;
+}
+
+.h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'PT Sans';
+}
+
+
+
+.column {
+  margin: 20px;
+  
+}
+
+.button-white {
+  background-color: white !important;
+  color: black !important;
+  border: white !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 15px !important;
+  width: 200px
+}
+
+.button-green2 {
+  background-color: #7bb062 !important;
+  color: black !important;
+  border: #7bb062 !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 15px !important;
+  margin-right: 5px;
+  width: 150px !important;
+}
+
+.image {
+  height: 250px;
+  object-fit: cover;
+}

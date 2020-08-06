@@ -1,0 +1,28 @@
+.search {
+  margin: auto;
+}
+
+.search-form {
+  justify-content: center;
+}
+
+.input-search {
+   width: 500px !important;
+   margin-right: 0px;
+   box-sizing: content-box;
+}
+
+.input-category {
+  width: 300px !important;
+  box-sizing: content-box;
+}
+.btn {
+  line-height: 2.5 !important;
+  width: 200px;
+  background-color: white !important;
+  color: black !important;
+  border: white !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 16px !important;
+}
