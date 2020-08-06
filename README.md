@@ -14,7 +14,7 @@ Back-end: NodeJs, Express & Sequelize.
 
 ## Database schema
 
-<img src="images/db%20schema%20activities.JPG">
+<img src="images/db%20schema%20activities.jpg">
 
 ## Setup
 
